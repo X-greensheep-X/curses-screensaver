@@ -5,4 +5,4 @@ burn-in given enough time. This is more of a spur-of-the-moment project and I ha
 If the terminal operates over a slow serial connection, adjust the delay to a higher number.
 
 # syntax
-./curses-screensaver.py <delay>
+./curses-screensaver.py \<delay\>
